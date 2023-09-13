@@ -1,0 +1,13 @@
+{
+    "local": {
+        "username": "root",
+        "password": "root",
+        "database": "chamber",
+        "host": "localhost",
+        "timezone": "+08:00",
+        "dialect": "mysql",
+        "dialectOptions": {
+          "supportBigNumbers": true
+        }
+    }
+}
